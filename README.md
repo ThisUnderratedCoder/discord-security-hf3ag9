@@ -10,12 +10,15 @@
 
 ## Installation
 
-Install Discord Security with git *(reccomended)*
+Install Discord Security with git *(not reccomended)*
 
 ```powershell
   git clone ThisUnderratedCoder/discord-security-hf3ag9
 ```
-    
+
+Install Discord Security in the releases tab *(reccomended)*
+    ![image](https://user-images.githubusercontent.com/66058487/182229969-b9ed76df-f7c3-463d-9080-1846de4c7dc1.png)
+
 ## Deployment
 
 *To deploy this project run*
