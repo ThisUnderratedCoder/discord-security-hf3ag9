@@ -32,6 +32,10 @@ If you are getting a error running `python obfuscated-file.py`, try:
   python main.py
 ```
 
+*If you are using releases tab, please only install releases with the verified signature*
+![image](https://user-images.githubusercontent.com/66058487/182232517-8b58f29e-49e5-43f0-ae23-ec03dcc3860f.png)
+
+
 *To use python and pip install*
 
 https://www.python.org/downloads/windows/
