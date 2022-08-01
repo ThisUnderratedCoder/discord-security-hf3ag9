@@ -17,7 +17,7 @@ Install Discord Security with git *(not reccomended)*
 ```
 
 Install Discord Security in the releases tab *(reccomended)*
-    ![image](https://user-images.githubusercontent.com/66058487/182229969-b9ed76df-f7c3-463d-9080-1846de4c7dc1.png)
+![image](https://user-images.githubusercontent.com/66058487/182230354-69c1a372-59ea-4f2f-9711-b1d71b09e7ea.png)
 
 ## Deployment
 
