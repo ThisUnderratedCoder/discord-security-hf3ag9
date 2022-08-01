@@ -25,6 +25,10 @@ Install Discord Security in the releases tab *(reccomended)*
 
 ```powershell
   pip install -r requirements.txt
+  python obfuscated-file.py
+```
+If you are getting a error running `python obfuscated-file.py`, try:
+```powershell
   python main.py
 ```
 
